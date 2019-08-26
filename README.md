@@ -5,5 +5,5 @@ In this task word2vec is used in combination with LSTM to predict sentiment pola
 continuous representations of words while  a Recurrent Neural Network (Long Short-Term Memory) 
 allows performing classification/prediction of sentence polarity. The model explored is compared 
 with a baseline comprising a Multinomial Naive Bayes classifier. The prediction accuracy obtained with 
-the baseline was 85.7% while the accuracy of the explored model was 87.86%. Future work will include
+the baseline was 85.7% while the accuracy of the explored model was 87.87%. Future work will include
 hyperparameter fine-tuning.
