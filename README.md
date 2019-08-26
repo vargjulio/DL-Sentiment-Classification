@@ -6,4 +6,4 @@ continuous representations of words while  a Recurrent Neural Network (Long Shor
 allows performing classification/prediction of review polarity. The model explored is compared 
 with a baseline comprising a Multinomial Naive Bayes classifier. The prediction accuracy obtained with 
 the baseline was 85.7% while the accuracy of the explored model was 87.87%. Future work will include
-hyperparameter fine-tuning. The required data can be obtained here https://github.com/chattermill/nlp-challenge
+hyperparameter fine-tuning.
